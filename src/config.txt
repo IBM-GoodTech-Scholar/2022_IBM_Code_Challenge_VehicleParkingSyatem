@@ -3,6 +3,6 @@
 total_spaces=20
 rows=4
 
-linux=0
+windows=0
 demo_mode=1
 
