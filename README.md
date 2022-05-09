@@ -21,19 +21,3 @@ Personas of the system
 2. normal user - can choose their own spot , can view others spots 
 
 
-Architecture
-
-
-#wrapper
-  span.label Parking Area
-  .branch.lv1
-     .entry
-       span.label Pre Booking
-       .branch.lv2
-          .entry
-              span.label User Interface
-      .entry
-          span.label Spot Parking
-          .branch.lv2
-              .entry
-                  span.label Automatic System
