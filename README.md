@@ -20,4 +20,14 @@ Personas of the system
 1. admin - can access , control and view all the records
 2. normal user - can choose their own spot , can view others spots 
 
+Architecture
 
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <img src="https://drive.google.com/file/d/1nbU_eFiC8EkrwTHatRNJ3w9EqdT7onbx/view?usp=sharing" alt="Architecture">
+   </body>
+ </html>
+  
+    
