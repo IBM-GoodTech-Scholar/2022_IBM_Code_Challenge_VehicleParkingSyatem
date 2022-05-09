@@ -22,12 +22,6 @@ Personas of the system
 
 Architecture
 
-<!DOCTYPE html>
-<html>
-  <head></head>
-  <body>
-    <img src="https://drive.google.com/file/d/1nbU_eFiC8EkrwTHatRNJ3w9EqdT7onbx/view?usp=sharing" alt="Architecture">
-   </body>
- </html>
+Attached an image...
   
     
